@@ -3,7 +3,7 @@
 
 Linkedin : https://www.linkedin.com/in/haniye-akbari-12420127b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnjO8J3xjTYGEiYk%2BQnAHCw%3D%3D
 Github : https://github.com/HaniyeAkbari
-- [Demo Project](https://raw.githack.com/HaniyeAkbari/Project-With-Flex/main/index.html/)
+- [Demo Project](https://raw.githack.com/HaniyeAkbari/Project-With-Flex/main/index.html)
 - Developed by Haniye Akbari
 - Created - 2023
 - 🤖 Technologies Used - Html , css 
